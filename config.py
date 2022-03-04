@@ -1,0 +1,58 @@
+CF = [
+    {
+        'id': 1,
+        'name': 'background',
+        'directory': 'Background',
+        'required': True,
+        'rarity_weights': None,
+    },
+    {
+        'id': 2,
+        'name': 'Clothes',
+        'directory': 'Clothes',
+        'required': True,
+        'rarity_weights': 'random',
+    },
+    {
+        'id': 3,
+        'name': 'Face',
+        'directory': 'Face',
+        'required': True,
+        'rarity_weights': 'random',
+    },
+    {
+        'id': 4,
+        'name': 'Eye',
+        'directory': 'Eye',
+        'required': True,
+        'rarity_weights': 'random',
+    },
+    {
+        'id': 5,
+        'name': 'Tattoo',
+        'directory': 'Tattoo',
+        'required': False,
+        'rarity_weights': None,
+    },
+    {
+        'id': 6,
+        'name': 'JEWELRY1',
+        'directory': 'JEWELRY1',
+        'required': False,
+        'rarity_weights': 'random',
+    },
+    {
+        'id': 7,
+        'name': 'JEWELRY2',
+        'directory': 'JEWELRY2',
+        'required': False,
+        'rarity_weights': 'random',
+    },
+    {
+        'id': 8,
+        'name': 'JEWELRY3',
+        'directory': 'JEWELRY3',
+        'required': False,
+        'rarity_weights': 'random',
+    },
+]
